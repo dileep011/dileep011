@@ -14,7 +14,8 @@ Connect with me
 
 <a href="https://www.linkedin.com/in/reddi-dileepkumar-5424621ba/">LinkdIn</a>
 
-## Technologies which I teach and use:
+## Technologies which I Learn:
+
 ### Frontend Technologies
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
@@ -22,21 +23,14 @@ Connect with me
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
 <div> 
+  
+  
 ### Backend Technologies
+  
 <div>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
 </div>
-
-These are the technologies i learn  <br />
-✅ HTML <br />
-✅ CSS <br />
-✅ Git and GitHub <br />
-✅ JavaScript <br />
-✅ React <br />
-✅ Python <br />
-✅ Data Analysis <br />
-
 
 <!--
 **dileep011/dileep011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
