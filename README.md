@@ -15,6 +15,17 @@ Connect with me
 <a href="https://www.linkedin.com/in/reddi-dileepkumar-5424621ba/">LinkdIn</a>
 
 
+
+These are the technologies i learn  <br />
+✅ HTML <br />
+✅ CSS <br />
+✅ Git and GitHub <br />
+✅ JavaScript <br />
+✅ React <br />
+✅ Python <br />
+✅ Data Analysis <br />
+
+
 <!--
 **dileep011/dileep011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
