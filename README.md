@@ -1,5 +1,6 @@
 ### Hi there 👋
 ##I'm Reddi DileepKumar
+<em><small style='fornt-size:12px;'>One of my most productive days was throwing away 1000 lines of code.</small><em>
 I am an _programmer_,_full stack developer_,_self motivator_,_graduate_. this Github page is all about my work during by learning period. I learn HTML,CSS, JS, Web Development, Core Java, J2EE, Spring etc. I am very pleased to have you here on my github page and look into my work. 
 
 Thank You 
