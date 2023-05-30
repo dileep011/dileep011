@@ -14,14 +14,14 @@ Connect with me
 
 <a href="https://www.linkedin.com/in/reddi-dileepkumar-5424621ba/">LinkdIn</a>
 
-## Technologies which I Learn:
+    ## Technologies which I Learn:
 
 ### Frontend Technologies
 <div>
- <img src="./images/html5.svg" alt="html5" width="5%" title='html'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+ <img src="./images/html5.svg" alt="html5" width="4%" title='html'/>
+  <img src ="./images/css3-alt.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/js.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
 <div> 
   
   
