@@ -31,6 +31,15 @@ Connect with me
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
 </div>
+  
+  ### Tools
+  
+<div>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+</div>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileep@011&layout)](https://github.com/asabeneh/github-readme-stats)
 
 <!--
 **dileep011/dileep011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
