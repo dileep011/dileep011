@@ -1,5 +1,13 @@
 ### Hi there 👋
-#I'M REDDI DILEEPKUMAR
+##I'm Reddi DileepKumar
+I am an _programmer_,_full stack developer_,_self motivator_,_graduate_. this Github page is all about my work during by learning period. I learn HTML,CSS, JS, Web Development, Core Java, J2EE, Spring etc. I am very pleased to have you here on my github page and look into my work. 
+
+Thank You 
+
+Connect with me
+
+<a href="https://www.linkedin.com/in/reddi-dileepkumar-5424621ba/">LinkdIn</a>
+
 
 <!--
 **dileep011/dileep011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
