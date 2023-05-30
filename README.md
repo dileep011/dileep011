@@ -18,7 +18,7 @@ Connect with me
 
 ### Frontend Technologies
 <div>
-  <img src ="<i class="fa-brands fa-html5"></i>" alt="HTML5 logo" width="3%" title='HTML5'/>
+ <img src="./" alt="html5" width="5%" title='html'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
