@@ -12,7 +12,7 @@ Thank You
 
 Connect with me
 
-<a href="https://www.linkedin.com/in/reddi-dileepkumar-5424621ba/">LinkdIn</a>
+<a href="https://www.linkedin.com/in/dileepkumarreddi/">LinkdIn</a>
 
     ## Technologies which I Learn:
 
